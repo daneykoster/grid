@@ -6,7 +6,7 @@
 
 .row {
     display: flex;
-    max-width: 800px;
+    max-width: 1140px;
     flex-basis: 100%;
     flex-wrap: wrap;
 }
