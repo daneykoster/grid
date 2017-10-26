@@ -16,7 +16,16 @@ full-row{
     width:100%;
 }
 
-.col{
+.s1{
+    flex-basis:100%;
+}
+.s2{
     flex-basis:50%;
+}
+.s3{
+    flex-basis:33.3333%;
+}
+.s4{
+    flex-basis:25%;
 }
 
