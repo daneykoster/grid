@@ -1,0 +1,4 @@
+.grid{display:flex;flex-flow:row wrap;background:yellow;justify-content:center;}
+.row,.row-full{display:flex;max-width:800px;background:red;flex-basis:100%;max-width:1140px;flex-wrap:wrap;}
+.col{flex-basis:50%;}
+.row-full{max-width:100%;width:100%;}
