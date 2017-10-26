@@ -4,14 +4,14 @@
     justify-content:center;
 }
 
-.row,
-.row-full{
+.row{
     display:flex;
     max-width:800px;
     flex-basis:100%;
     flex-wrap:wrap;
 }
-.row-full{
+full-row{
+    @extend .row;
     max-width:100%;
     width:100%;
 }
