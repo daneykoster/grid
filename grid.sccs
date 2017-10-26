@@ -1,4 +1,22 @@
-.grid{display:flex;flex-flow:row wrap;background:yellow;justify-content:center;}
-.row,.row-full{display:flex;max-width:800px;background:red;flex-basis:100%;max-width:1140px;flex-wrap:wrap;}
-.col{flex-basis:50%;}
-.row-full{max-width:100%;width:100%;}
+.grid{
+    display:flex;
+    flex-flow:row wrap;
+    justify-content:center;
+}
+
+.row,
+.row-full{
+    display:flex;
+    max-width:800px;
+    flex-basis:100%;
+    flex-wrap:wrap;
+}
+.row-full{
+    max-width:100%;
+    width:100%;
+}
+
+.col{
+    flex-basis:50%;
+}
+
