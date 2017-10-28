@@ -1,2 +1,8 @@
 # grid
-Simpel flex grid what make sense
+HOLY GRID
+
+usage:
+ .grid
+  .row
+   .s2
+   .s2
